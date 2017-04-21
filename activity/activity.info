@@ -1,0 +1,9 @@
+[Activity]
+name = Cuadraditos
+activity_version = 3 
+service_name = org.laptop.Cuadraditos
+exec = Cuadraditos.sh
+icon = activity-cuadraditos
+mime_types =
+license = GPLv2+
+update_url = http://cuadraditos.uy
